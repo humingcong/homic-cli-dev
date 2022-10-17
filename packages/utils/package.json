@@ -1,6 +1,6 @@
 {
   "name": "@homic-cli-dev/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "hmc <413031273@qq.com>",
   "homepage": "",
@@ -18,7 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
   }
 }
