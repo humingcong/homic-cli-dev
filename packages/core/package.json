@@ -17,12 +17,14 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "@imooc-cli/utils": "^1.1.3"
-  }
+  },
+  "gitHead": "1416085becac3bc0cf7ce069f320a7c40e365345"
 }
