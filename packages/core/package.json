@@ -1,6 +1,6 @@
 {
   "name": "@homic-cli-dev/core",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "hmc <413031273@qq.com>",
   "homepage": "",
@@ -24,9 +24,9 @@
     "test": "echo \"Error: run tests from root\""
   },
   "dependencies": {
+    "@homic-cli-dev/utils": "^0.0.7",
     "lodash": "^4.17.21",
-    "react": "^18.2.0",
-    "@homic-cli-dev/utils": "^0.0.6"
+    "react": "^18.2.0"
   },
   "gitHead": "1416085becac3bc0cf7ce069f320a7c40e365345"
 }
