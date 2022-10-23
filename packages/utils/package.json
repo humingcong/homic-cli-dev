@@ -18,7 +18,10 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\""
   },
-  "gitHead": "1416085becac3bc0cf7ce069f320a7c40e365345"
+  "gitHead": "1416085becac3bc0cf7ce069f320a7c40e365345",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
